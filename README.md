@@ -1,17 +1,17 @@
 #                              **Hi 👋, I'm Aman Patel** 
-I am final year undergrad at IIIT Nagpur pursuing my B.Tech in Computer Science and Engineering.
+I am currently working as a Frontend Developer in RejigAI Research Private Limited .
 
 I love Problem Solving and I have solved about 600+ problems on various coding platforms.
 
 I am an aspiring Software Engineer. 
-### **I am currently looking for internship opportunities in Data Analyst, Data Scientist, SDE, Machine Learning, AI role**. 
+### **I am currently looking for opportunities as a Front end Developer**. 
 - 👨‍💻 **Linkedin** - https://www.linkedin.com/in/aman-patel-connect/
 - 📫 **Email** - amanpatel2922@gmail.com
 
 ## Languages and Tools
 
-### SQL, Python, C/C++
-### Numpy, Pandas, Matplotlib, EDA, Web Scrapping, Data Visualisation
-### Data Insights
-### Machine Learning
-### Deep Learning
+### React,Electron, Javascript, C/C++
+### Material UI, Typescript, Redux, HTML, CSS
+### REST APIs
+### Video Processing with Remotion
+### MySQL, Relational Databases
